@@ -237,3 +237,18 @@ Choose and add a license before accepting reuse or contributions. If no license 
 **Project:** Friends Group Durga Puja Photo Uploader  
 **Hosting:** InfinityFree  
 **Language:** PHP, HTML, CSS, JavaScript, SQL
+
+---
+
+## Author
+
+**Sagen Saren**
+
+B.Tech Computer Science and Engineering Graduate
+
+* **GitHub:** https://github.com/saren98
+* **Portfolio:** https://sagensaren.freehosting.dev/
+
+Developed for Friends Group Durga Puja to provide a photo gallery, Google Drive photo uploads, and visitor analytics.
+
+
